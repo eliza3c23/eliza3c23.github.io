@@ -1,0 +1,42 @@
+[
+    {
+        "employer": "Oregon State University Business Affair",
+        "location": "Corvallis, OR",
+        "position": "ID center office assistant",
+        "duration": "June 2016 - present",
+        "respons":[
+            "Responsibility:",
+            "Creates ID card for OSU members, troubleshooting ID cards and card printer",
+            "regular office duties such as answering phone calls and customer services",
+            "leads the front office employee hiring process and training.",
+            "Acheivement",
+            "Suggested new procedure to replace current passport photo procedure and increased overall efficiency;",
+            "provide assistance and printed their ID cards to 3 groups of visiting scholars in timely manner."
+        ]
+    },
+    {
+        "employer": "Oregon State University Business Affair",
+        "location": "Corvallis, OR",
+        "position": "Orange card specialist",
+        "duration": "June 2019 - Sep 2019",
+        "respons" :[
+            "Responsibility:",
+            "ID recard project at OSU, provides technical support such as reprograming prox reader",
+            "writing queries for departmental recard request, provides technical support to OSU cascade ID office.",
+            "Acheivement",
+            "Helped the ID center back-office finished the re-card project in 3 months while other departments are not done with re-card project until Spring of 2020;",
+            "Open the car printer due to abnormal operational noise from machine",
+            "discover the MiFare chip reader is unplugged after the manufacture repair."
+        ]
+    },
+    {
+        "employer":"Passport To Language Inc",
+        "location":"Portland, OR",
+        "position":"Freelance interpreter",
+        "duration":"June 2016 - present",
+        "respons":[
+            "Medical interpreter that is appointment based.",
+            "Currently working in Portland area (not during school year) and Corvallis/Albany area (during school year)"
+        ]
+    }
+]

@@ -7,22 +7,27 @@ import Github from './pages/Github';
 import Interest from './pages/Interest';
 import Resume from './pages/Resume';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { css, jsx } from "@emotion/core";
+import styled from '@emotion/styled'
+
 
 function App() {
   return (
     <div className="App">
       <main>
-        <Router>
-        <Navbar />
-          <Switch>
-            <Route path = "/home" component={Home}/>
-            <Route path = "/about" component={About}/>
-            <Route path = "/blog" component={Blog}/>
-            <Route path = "/github" component={Github}/>
-            <Route path = "/interest" component={Interest}/>
-            <Route path = "/resume" component={Resume}/>
-          </Switch>
+          <Router>
+              <Switch>
+                <Route exact path = "/" component={Home}/>
+                <Route path = "/home" component={Home}/>
+                <Route path = "/about" component={About}/>
+                <Route path = "/blog" component={Blog}/>
+                <Route path = "/github" component={Github}/>
+                <Route path = "/interest" component={Interest}/>
+                <Route path = "/resume" component={Resume}/>
+              </Switch>
         </Router>
+        <Navbar />
+      
       </main>
     </div>
   );

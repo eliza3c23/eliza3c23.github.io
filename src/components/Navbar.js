@@ -1,8 +1,17 @@
 import React from "react";
 import { Link } from "@reach/router";
 import { NavLink, Switch, Route } from 'react-router-dom';
+import Myface from '../images/myface.jpg';
+
 import { css, jsx } from "@emotion/core";
 import styled from '@emotion/styled'
+
+import HomeIcon from '@material-ui/icons/Home';
+import PersonIcon from '@material-ui/icons/Person';
+import DescriptionIcon from '@material-ui/icons/Description';
+import FavoriteIcon from '@material-ui/icons/Favorite';
+import GitHubIcon from '@material-ui/icons/GitHub';
+import CreateIcon from '@material-ui/icons/Create';
 
 const ResponsiveStyle = styled.div`
 @media (max-width: 768px) {
@@ -11,15 +20,17 @@ const ResponsiveStyle = styled.div`
 `;
 
 const NavStyle = styled.ul`
-  background-color: lightgrey;
-  color: white;
-  width: 15%;
-  margin-top: auto;
-  padding 10px 13px;
-  list-style-type: none;
+  
+  // background-color: #E2E2E2;
+  // border: 1px solid #E2E2E2;
+  box-shadow: 3px 3px 6px gray;
+  width: 220px;
+  height: 100%;
+  margin: 0;
   position: fixed;
   height: 100%;
-  overflow: auto;
+  overflow-x: hidden;
+  padding-top: 20px;
 `;
 
 const NavbarStyling = styled.li`
@@ -31,65 +42,80 @@ padding: 14px 16px;
 
 const Astyle = styled.a`
 text-decoration:none;
-font-size: 30px;
+text-align: center;
+font-size: 25px;
 font-style: oblique;
 font-family: Verdana;
-color: black;
+color: white;
 &:hover {
-  color: dodgerblue};
+  color: #E96060};
 }
 &:class active{
   font-weight: bold;
-  background-color: lavender;
 }
 `;
+
+const MyInfo = styled.h2`
+text-align: center;
+font-size: 20px;
+font-style: oblique;
+font-family: Verdana;
+color: white;
+`;
+
 
 function Navbar(){
     return(
       <nav className="navbar navbar-default">
         <ResponsiveStyle className="container">
           <div className="navbar-header">
-            <NavStyle>
+            <NavStyle>  
+            <img 
+              src={Myface}
+              style={{width: 160,
+                      height: 160,
+                      alignItems:'center',
+                      borderRadius: '75%',
+                      marginTop: '5px'}}/>
+            <MyInfo>
+              Eliza Nip
+            </MyInfo>
                 <NavbarStyling>
-  
                 <Astyle class="active" href = "home">
-                  Home
+                  <HomeIcon fontSize="large"/> Home
                 </Astyle>
-  
                </NavbarStyling>
   
                 <NavbarStyling>
                 <Astyle class="active" href = "about">
-                  About
-                </Astyle>
-                </NavbarStyling>
-                
-                <NavbarStyling>
-                <Astyle class="active" href = "blog">
-                  Blog
-                </Astyle>
-             </NavbarStyling>
-               
-               <NavbarStyling>
-                <Astyle class="active" href = "github">
-                  Github
-                </Astyle>
-               </NavbarStyling>
-
-               <NavbarStyling>
-               <Astyle class="active" href = "interest">
-                  Interest
+                  <PersonIcon fontSize="large"/>  About
                 </Astyle>
                 </NavbarStyling>
 
                 <NavbarStyling>
                 <Astyle class="active" href = "resume">
-                  Resume
+                  <DescriptionIcon fontSize="large"/> Resume
                 </Astyle>
                 </NavbarStyling>
-            
-            </NavStyle>   
-                
+               
+               <NavbarStyling>
+                <Astyle class="active" href = "github">
+                  <GitHubIcon fontSize="large"/>  Github
+                </Astyle>
+               </NavbarStyling>
+
+               <NavbarStyling>
+               <Astyle class="active" href = "interest">
+                  <FavoriteIcon fontSize="large"/>  Interest
+                </Astyle>
+                </NavbarStyling>
+
+                <NavbarStyling>
+                <Astyle class="active" href = "blog">
+                <CreateIcon fontSize="large"/>  Blog
+                </Astyle>
+             </NavbarStyling>
+            </NavStyle>        
           </div>
         </ResponsiveStyle>
       </nav>
