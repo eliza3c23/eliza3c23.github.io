@@ -42,11 +42,6 @@ font-family: Verdana;
 // font-family: Verdana;
 // `;
 
-const api ={
-  
-}
-
-
 function Home() {
   return (
     

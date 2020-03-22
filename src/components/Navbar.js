@@ -81,37 +81,37 @@ function Navbar(){
               Eliza Nip
             </MyInfo>
                 <NavbarStyling>
-                <Astyle class="active" href = "home">
+                <Astyle class="active" href = "#/home">
                   <HomeIcon fontSize="large"/> Home
                 </Astyle>
                </NavbarStyling>
   
                 <NavbarStyling>
-                <Astyle class="active" href = "about">
+                <Astyle class="active" href = "#/about">
                   <PersonIcon fontSize="large"/>  About
                 </Astyle>
                 </NavbarStyling>
 
                 <NavbarStyling>
-                <Astyle class="active" href = "resume">
+                <Astyle class="active" href = "#/resume">
                   <DescriptionIcon fontSize="large"/> Resume
                 </Astyle>
                 </NavbarStyling>
                
                <NavbarStyling>
-                <Astyle class="active" href = "github">
+                <Astyle class="active" href = "#/github">
                   <GitHubIcon fontSize="large"/>  Github
                 </Astyle>
                </NavbarStyling>
 
                <NavbarStyling>
-               <Astyle class="active" href = "interest">
+               <Astyle class="active" href = "#/interest">
                   <FavoriteIcon fontSize="large"/>  Interest
                 </Astyle>
                 </NavbarStyling>
 
                 <NavbarStyling>
-                <Astyle class="active" href = "blog">
+                <Astyle class="active" href = "#/blog">
                 <CreateIcon fontSize="large"/>  Blog
                 </Astyle>
              </NavbarStyling>
