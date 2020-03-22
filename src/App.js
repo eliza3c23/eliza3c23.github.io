@@ -6,7 +6,7 @@ import Blog from './pages/Blog';
 import Github from './pages/Github';
 import Interest from './pages/Interest';
 import Resume from './pages/Resume';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 import { css, jsx } from "@emotion/core";
 import styled from '@emotion/styled'
 
