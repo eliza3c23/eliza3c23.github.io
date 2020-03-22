@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f18ebdc91ad979ab1da5eb7bb1c105a",
+    "revision": "0946b1c7846df4a61c874feec6d2f6a4",
     "url": "/eliza_profo/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eliza_profo/static/js/2.787b57ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e6ccd262b5a2f3b54ba8",
-    "url": "/eliza_profo/static/js/main.46cda6e3.chunk.js"
+    "revision": "b5b23125b2530d417d37",
+    "url": "/eliza_profo/static/js/main.c8940307.chunk.js"
   },
   {
     "revision": "d25df0d15ca2d6537b26",
