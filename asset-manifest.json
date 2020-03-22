@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.js": "/eliza_profo/static/js/main.93bfb1c5.chunk.js",
-    "main.js.map": "/eliza_profo/static/js/main.93bfb1c5.chunk.js.map",
-    "runtime-main.js": "/eliza_profo/static/js/runtime-main.896d05e3.js",
-    "runtime-main.js.map": "/eliza_profo/static/js/runtime-main.896d05e3.js.map",
-    "static/css/2.f608d950.chunk.css": "/eliza_profo/static/css/2.f608d950.chunk.css",
-    "static/js/2.787b57ad.chunk.js": "/eliza_profo/static/js/2.787b57ad.chunk.js",
-    "static/js/2.787b57ad.chunk.js.map": "/eliza_profo/static/js/2.787b57ad.chunk.js.map",
-    "index.html": "/eliza_profo/index.html",
-    "precache-manifest.2a016c66ddbf30aeccb7a6357c1e39ca.js": "/eliza_profo/precache-manifest.2a016c66ddbf30aeccb7a6357c1e39ca.js",
-    "service-worker.js": "/eliza_profo/service-worker.js",
-    "static/css/2.f608d950.chunk.css.map": "/eliza_profo/static/css/2.f608d950.chunk.css.map",
-    "static/js/2.787b57ad.chunk.js.LICENSE.txt": "/eliza_profo/static/js/2.787b57ad.chunk.js.LICENSE.txt",
-    "static/media/IMAGE1.jpeg": "/eliza_profo/static/media/IMAGE1.e5af5ca0.jpeg",
-    "static/media/semantic.min.css": "/eliza_profo/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/htb.png": "/eliza_profo/static/media/htb.c946b491.png",
-    "static/media/myface.jpg": "/eliza_profo/static/media/myface.b28d9bff.jpg"
+    "main.js": "/eliza_portfo/static/js/main.3300eee3.chunk.js",
+    "main.js.map": "/eliza_portfo/static/js/main.3300eee3.chunk.js.map",
+    "runtime-main.js": "/eliza_portfo/static/js/runtime-main.7bfaf7e9.js",
+    "runtime-main.js.map": "/eliza_portfo/static/js/runtime-main.7bfaf7e9.js.map",
+    "static/css/2.8d10313e.chunk.css": "/eliza_portfo/static/css/2.8d10313e.chunk.css",
+    "static/js/2.c2b6e995.chunk.js": "/eliza_portfo/static/js/2.c2b6e995.chunk.js",
+    "static/js/2.c2b6e995.chunk.js.map": "/eliza_portfo/static/js/2.c2b6e995.chunk.js.map",
+    "index.html": "/eliza_portfo/index.html",
+    "precache-manifest.8fd5c202929b2ce2335b65f6d986d2f3.js": "/eliza_portfo/precache-manifest.8fd5c202929b2ce2335b65f6d986d2f3.js",
+    "service-worker.js": "/eliza_portfo/service-worker.js",
+    "static/css/2.8d10313e.chunk.css.map": "/eliza_portfo/static/css/2.8d10313e.chunk.css.map",
+    "static/js/2.c2b6e995.chunk.js.LICENSE.txt": "/eliza_portfo/static/js/2.c2b6e995.chunk.js.LICENSE.txt",
+    "static/media/IMAGE1.jpeg": "/eliza_portfo/static/media/IMAGE1.e5af5ca0.jpeg",
+    "static/media/semantic.min.css": "/eliza_portfo/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/htb.png": "/eliza_portfo/static/media/htb.c946b491.png",
+    "static/media/myface.jpg": "/eliza_portfo/static/media/myface.b28d9bff.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.896d05e3.js",
-    "static/css/2.f608d950.chunk.css",
-    "static/js/2.787b57ad.chunk.js",
-    "static/js/main.93bfb1c5.chunk.js"
+    "static/js/runtime-main.7bfaf7e9.js",
+    "static/css/2.8d10313e.chunk.css",
+    "static/js/2.c2b6e995.chunk.js",
+    "static/js/main.3300eee3.chunk.js"
   ]
 }
