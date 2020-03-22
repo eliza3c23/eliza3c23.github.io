@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.js": "/static/js/main.0ff890b9.chunk.js",
-    "main.js.map": "/static/js/main.0ff890b9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.861e9d38.js",
-    "runtime-main.js.map": "/static/js/runtime-main.861e9d38.js.map",
-    "static/css/2.7df41cd5.chunk.css": "/static/css/2.7df41cd5.chunk.css",
-    "static/js/2.782b82cf.chunk.js": "/static/js/2.782b82cf.chunk.js",
-    "static/js/2.782b82cf.chunk.js.map": "/static/js/2.782b82cf.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2bbb2e3a3f64548f46084e6b290b53ea.js": "/precache-manifest.2bbb2e3a3f64548f46084e6b290b53ea.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.7df41cd5.chunk.css.map": "/static/css/2.7df41cd5.chunk.css.map",
-    "static/js/2.782b82cf.chunk.js.LICENSE.txt": "/static/js/2.782b82cf.chunk.js.LICENSE.txt",
-    "static/media/IMAGE1.jpeg": "/static/media/IMAGE1.e5af5ca0.jpeg",
-    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/htb.png": "/static/media/htb.c946b491.png",
-    "static/media/myface.jpg": "/static/media/myface.b28d9bff.jpg"
+    "main.js": "/eliza_profo/static/js/main.0ff890b9.chunk.js",
+    "main.js.map": "/eliza_profo/static/js/main.0ff890b9.chunk.js.map",
+    "runtime-main.js": "/eliza_profo/static/js/runtime-main.896d05e3.js",
+    "runtime-main.js.map": "/eliza_profo/static/js/runtime-main.896d05e3.js.map",
+    "static/css/2.e8f063e5.chunk.css": "/eliza_profo/static/css/2.e8f063e5.chunk.css",
+    "static/js/2.782b82cf.chunk.js": "/eliza_profo/static/js/2.782b82cf.chunk.js",
+    "static/js/2.782b82cf.chunk.js.map": "/eliza_profo/static/js/2.782b82cf.chunk.js.map",
+    "index.html": "/eliza_profo/index.html",
+    "precache-manifest.56ac4029eb17b356d62860aaef156076.js": "/eliza_profo/precache-manifest.56ac4029eb17b356d62860aaef156076.js",
+    "service-worker.js": "/eliza_profo/service-worker.js",
+    "static/css/2.e8f063e5.chunk.css.map": "/eliza_profo/static/css/2.e8f063e5.chunk.css.map",
+    "static/js/2.782b82cf.chunk.js.LICENSE.txt": "/eliza_profo/static/js/2.782b82cf.chunk.js.LICENSE.txt",
+    "static/media/IMAGE1.jpeg": "/eliza_profo/static/media/IMAGE1.e5af5ca0.jpeg",
+    "static/media/semantic.min.css": "/eliza_profo/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/htb.png": "/eliza_profo/static/media/htb.c946b491.png",
+    "static/media/myface.jpg": "/eliza_profo/static/media/myface.b28d9bff.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.861e9d38.js",
-    "static/css/2.7df41cd5.chunk.css",
+    "static/js/runtime-main.896d05e3.js",
+    "static/css/2.e8f063e5.chunk.css",
     "static/js/2.782b82cf.chunk.js",
     "static/js/main.0ff890b9.chunk.js"
   ]
