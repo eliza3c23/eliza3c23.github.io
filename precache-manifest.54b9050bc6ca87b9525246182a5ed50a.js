@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0946b1c7846df4a61c874feec6d2f6a4",
+    "revision": "6d9a2b609a20239c2f24bf3f3aef47a0",
     "url": "/eliza_profo/index.html"
   },
   {
-    "revision": "3e97c828395cc9c87004",
-    "url": "/eliza_profo/static/css/2.e8f063e5.chunk.css"
+    "revision": "f0dc9246bc1bcdd5a21b",
+    "url": "/eliza_profo/static/css/2.f608d950.chunk.css"
   },
   {
-    "revision": "3e97c828395cc9c87004",
+    "revision": "f0dc9246bc1bcdd5a21b",
     "url": "/eliza_profo/static/js/2.787b57ad.chunk.js"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eliza_profo/static/js/2.787b57ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b5b23125b2530d417d37",
-    "url": "/eliza_profo/static/js/main.c8940307.chunk.js"
+    "revision": "360e2e3f128ed1a62daf",
+    "url": "/eliza_profo/static/js/main.da3362e1.chunk.js"
   },
   {
     "revision": "d25df0d15ca2d6537b26",
