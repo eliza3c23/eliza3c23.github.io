@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/eliza_profo/precache-manifest.84f4eedc5069a7c80b89246416c5fe78.js"
+  "/eliza_profo/precache-manifest.2c6e94b77a4ee68f5e3beea5b6a1e63f.js"
 );
 
 self.addEventListener('message', (event) => {
