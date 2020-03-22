@@ -5,6 +5,7 @@ import styled from '@emotion/styled';
 import Bkgrd from '../images/IMAGE1.jpeg';
 import { ImageBackground } from 'react-native';
 import Timer from '../components/Timer';
+// import TimeApi from '../components/TimeApi';
 
 const Backgroundstyle = styled.div`
 display: flex;
@@ -63,8 +64,8 @@ function Home() {
           {/* <Timestyle> */}
             <SectionBox>
               <Timer/>
+              {/* <TimeApi/> */}
             </SectionBox>
-            
           {/* </Timestyle> */}
           </Homestyle>
          
